@@ -1,0 +1,8 @@
+A new movie doc with name The Matrix has been created by COOLDAY. 
+A new movie doc with name Sample Movie has been created by COOLDAY. 
+Query took 72ms. 
+Query took 62ms. 
+Query took 69ms. 
+Query took 69ms. 
+Query took 69ms. 
+Query took 96ms. 
