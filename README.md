@@ -1,1 +1,1 @@
-# node_learning
+# Node learning with [A Complete NODE JS Course Step by Step](https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS) on "youtube_course" branch and [Node.js Learning materials](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) on "node_documentation" branch
